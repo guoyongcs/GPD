@@ -2,7 +2,7 @@
 
 Guo Yong, Shulian Zhang, Haolin Pan, Jing Liu, Yulun Zhang, Jian Chen, "Gap Preserving Distillation by building bidirectional mappings with a dynamic teacher", 2024
 
-[[arXiv](https://arxiv.org/html/2410.04140v1)] [[Projest](https://princecafe.github.io/GPDwebsite/)]
+[[arXiv](https://arxiv.org/html/2410.04140v1)] [[Project](https://princecafe.github.io/GPDwebsite/)]
 
 #### 🔥🔥🔥 News
 - **2024-02-14:** Code and pre-trained models are released. ⭐️⭐️⭐️
